@@ -1,0 +1,30 @@
+COMP,Acme Inc,Manufacturing,123 Main St,555-1234,info@acme.com
+COMP,Global Industries,Tech,456 Oak Ave,555-5678,info@global.com
+COMP,Innovative Solutions,Consulting,789 Pine Blvd,555-9101,info@innovative.com
+COMP,Starlight Enterprises,Entertainment,246 Elm St,555-1212,info@starlight.com
+COMP,United Co,Transportation,789 Fifth Ave,555-1313,info@united.com
+CUST,John Smith,johndoe@gmail.com,555-4321,Acme Inc
+CUST,Jane Smith,janesmith@yahoo.com,555-8765,Global Industries
+CUST,Bob Johnson,bobjohnson@hotmail.com,555-2468,Innovative Solutions
+CUST,Sarah Williams,sarahw@gmail.com,555-1010,Starlight Enterprises
+CUST,Mark Lee,marklee@gmail.com,555-2323,United Co
+CUST,Emily Brown,emilybrown@gmail.com,555-5555,Innovative Solutions
+CUST,David Lopez,davidlopez@yahoo.com,555-7777,Acme Inc
+CUST,Olivia Li,oliviali@hotmail.com,555-9999,Global Industries
+CUST,William Kim,williamkim@gmail.com,555-3456,Starlight Enterprises
+CUST,Samantha Johnson,samanthajohnson@yahoo.com,555-7890,United Co
+OPP,New Website Design,5000,Prospect,johndoe@gmail.com
+OPP,IT Support Services,12000,Proposal,janesmith@yahoo.com
+OPP,Marketing Consulting,8000,Proposal,bobjohnson@hotmail.com
+OPP,Movie Production,150000,Qualified,sarahw@gmail.com
+OPP,Logistics Management,75000,Closed Lost,marklee@gmail.com
+OPP,Software Development,20000,Prospect,emilybrown@gmail.com
+OPP,Advertising Campaign,10000,Qualified,davidlopez@yahoo.com
+OPP,Market Research,5000,Closed Won,oliviali@hotmail.com
+OPP,Event Planning,25000,Proposal,williamkim@gmail.com
+OPP,Transportation Services,40000,Prospect,samanthajohnson@yahoo.com
+OPP,New Product Launch,30000,Qualified,johnsmith@gmail.com
+OPP,Social Media Campaign,5000,Proposal,janesmith@yahoo.com
+OPP,Financial Consulting,15000,Qualified,bobjohnson@hotmail.com
+OPP,TV Series Production,120000,Proposal,sarahw@gmail.com
+OPP,Shipping Services,45000,Closed Lost,marklee@gmail.com
